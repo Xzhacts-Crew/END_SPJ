@@ -4,7 +4,8 @@
 - Janeri Amanda    0913  (SSL)
 - Jesen Tanamas    0920  (Dokumentasi & Pelaporan)
 - Natasha Putri R  0943  (CMS)
+- Inna Nur Amakina 09    (Proxy)
 - Bayu Rosdianko K 0945  (Integrasi Sistem)
 
 ### Project
-Security Web Server yang di buat dengan CMS dengan metode DDoS Prevention dan SSL
+Security Web Server yang di buat dengan CMS dengan metode DDoS Prevention, SSL, dan Proxy
