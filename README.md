@@ -14,6 +14,9 @@ Web Server dengan remote akses menggunakan SSH yang di buat dengan CMS dengan me
 Web yang dibuat adalah web pemesanan makanan yang dibuat dengan CMS Wordpress 
 
 ## Tampilan
+Web
 ![Web](https://raw.githubusercontent.com/Leviea/Pub/main/SPJ/Web.jpg)
 ![Web](https://raw.githubusercontent.com/Leviea/Pub/main/SPJ/Web%202.jpg)
+
+Webmin
 ![Webmin](https://raw.githubusercontent.com/Leviea/Pub/main/SPJ/Webmin.jpg)
