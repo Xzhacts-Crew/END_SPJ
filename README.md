@@ -12,3 +12,8 @@
 Web Server diinstall pada OS Ubuntu 22.04 (Virtual)
 Web Server dengan remote akses menggunakan SSH yang di buat dengan CMS dengan metode Security SSL, dan Proxy
 Web yang dibuat adalah web pemesanan makanan yang dibuat dengan CMS Wordpress 
+
+## Tampilan
+![Web](https://raw.githubusercontent.com/Leviea/Pub/main/SPJ/Web.jpg)
+![Web](https://raw.githubusercontent.com/Leviea/Pub/main/SPJ/Web%202.jpg)
+![Webmin](https://raw.githubusercontent.com/Leviea/Pub/main/SPJ/Webmin.jpg)
