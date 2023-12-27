@@ -5,7 +5,7 @@
 - Janeri Amanda    0913  (Wordpress)
 - Jesen Tanamas    0920  (Web Server)
 - Natasha Putri R  0943  (Webmin)
-- Inna Nur Amakina 09    (SSH)
+- Inna Nur Amalina 09    (SSH)
 - Bayu Rosdianko K 0945  (Proxy)
 
 ## Project
