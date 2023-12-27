@@ -1,5 +1,5 @@
 # TUGAS AKHIR SISTEM PERTAHANAN JARINGAN
-## WEB SERVER
+## WEB SERVER Kelompok 6
 ### Pembagian jobdesk
 - Khoirul Umar R   0902  (SSL)
 - Janeri Amanda    0913  (Wordpress)
